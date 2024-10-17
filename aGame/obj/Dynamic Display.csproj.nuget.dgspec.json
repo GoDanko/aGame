@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DTomasi\\OneDrive - International Paper Company\\Desktop\\Docs\\Programming\\C#\\aGame\\Dynamic Display.csproj": {}
+    "C:\\Users\\DTomasi\\onedrive - international paper company\\desktop\\docs\\programming\\C#\\aGame\\Dynamic Display.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DTomasi\\OneDrive - International Paper Company\\Desktop\\Docs\\Programming\\C#\\aGame\\Dynamic Display.csproj": {
+    "C:\\Users\\DTomasi\\onedrive - international paper company\\desktop\\docs\\programming\\C#\\aGame\\Dynamic Display.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DTomasi\\OneDrive - International Paper Company\\Desktop\\Docs\\Programming\\C#\\aGame\\Dynamic Display.csproj",
+        "projectUniqueName": "C:\\Users\\DTomasi\\onedrive - international paper company\\desktop\\docs\\programming\\C#\\aGame\\Dynamic Display.csproj",
         "projectName": "Dynamic Display",
-        "projectPath": "C:\\Users\\DTomasi\\OneDrive - International Paper Company\\Desktop\\Docs\\Programming\\C#\\aGame\\Dynamic Display.csproj",
+        "projectPath": "C:\\Users\\DTomasi\\onedrive - international paper company\\desktop\\docs\\programming\\C#\\aGame\\Dynamic Display.csproj",
         "packagesPath": "C:\\Users\\DTomasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DTomasi\\OneDrive - International Paper Company\\Desktop\\Docs\\Programming\\C#\\aGame\\obj\\",
+        "outputPath": "C:\\Users\\DTomasi\\onedrive - international paper company\\desktop\\docs\\programming\\C#\\aGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTomasi\\AppData\\Roaming\\NuGet\\NuGet.Config"

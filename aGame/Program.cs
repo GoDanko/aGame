@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Concurrent;
+using System.Threading;
+using System.Threading.Tasks;
+
 using Display;
 using Input;
 
@@ -6,23 +10,27 @@ namespace Main
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             Console.Clear();
-            while(true) {
 
-                char [,] content = BuildFrame();
-                WholeDisplay frame = new WholeDisplay(content);
+            while(true) {
+                DateTime startTime = DateTime.Now;
+
+                bool anyKeyPressed = false;
+                if(anyKeyPressed) {}
+
+                DateTime endProcessTime = DateTime.Now;
+                TimeSpan processTime = endProcessTime - startTime;
+
+                char [,] content = WholeDisplay.BuildFrame();
+                new WholeDisplay(content);
+
+                TimeSpan pauseForTime = WholeDisplay.drawTime - processTime;
+
+                Thread.Sleep((int)pauseForTime.TotalMilliseconds);
             }
-        }
-        static char[,] BuildFrame() {
-            char[,] result = new char[WholeDisplay.DisplayX, WholeDisplay.DisplayY];
-            for (int y = 0; y < WholeDisplay.DisplayY; y++) {
-                for (int x = 0; x < WholeDisplay.DisplayX; x++) {
-                    result[x,y] = '.';
-                }
-            }
-            return result;
         }
     }
 }

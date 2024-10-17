@@ -12,3 +12,17 @@ C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming
 C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\c#\Dynamic Display\obj\Debug\net8.0\Dynamic Display.pdb
 C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\c#\Dynamic Display\obj\Debug\net8.0\Dynamic Display.genruntimeconfig.cache
 C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\c#\Dynamic Display\obj\Debug\net8.0\ref\Dynamic Display.dll
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\bin\Debug\net8.0\Dynamic Display.exe
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\bin\Debug\net8.0\Dynamic Display.deps.json
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\bin\Debug\net8.0\Dynamic Display.runtimeconfig.json
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\bin\Debug\net8.0\Dynamic Display.dll
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\bin\Debug\net8.0\Dynamic Display.pdb
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.AssemblyInfoInputs.cache
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.AssemblyInfo.cs
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.csproj.CoreCompileInputs.cache
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.dll
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\refint\Dynamic Display.dll
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.pdb
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\Dynamic Display.genruntimeconfig.cache
+C:\Users\DTomasi\onedrive - international paper company\desktop\docs\programming\C#\aGame\obj\Debug\net8.0\ref\Dynamic Display.dll
